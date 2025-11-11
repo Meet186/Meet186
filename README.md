@@ -15,7 +15,7 @@
 ## 🌐 Socials:
 <p align="center">
   <a href="https://instagram.com/meet_186"><img src="https://skillicons.dev/icons?i=instagram" height="48" alt="Instagram"/></a>
-  <a href="https://linkedin.com/in/meet-solanki"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/meet-solanki-b65578253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/></a>
   <a href="https://stackoverflow.com/users/31859408/meet-solanki"><img src="https://skillicons.dev/icons?i=stackoverflow" height="48" alt="Stack Overflow"/></a>
   <a href="https://x.com/meetSolanki186"><img src="https://skillicons.dev/icons?i=twitter" height="48" alt="X (Twitter)"/></a>
   <a href="mailto:meetsolanki7974@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email"/></a>
@@ -88,5 +88,5 @@
 
   [![](https://visitcount.itsvg.in/api?id=Meet186&icon=3&color=6)](https://visitcount.itsvg.in)
 
-  <br><sub>✨ Designed for both dark 🌙 and light ☀️ GitHub themes | By <b>Meet Solanki</b></sub>
+
 </div>
