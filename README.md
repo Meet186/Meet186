@@ -4,7 +4,7 @@
 ---
 
 ## 💫 About Me:
-🔭 I’m currently working on **building interactive web apps** using React and improving my **Java DSA** problem-solving skills.  
+🔭 I’m currently working on **building interactive web pages** using React and improving my **Java DSA** problem-solving skills.  
 👯 I’m looking to collaborate on **Front-end or Java-based projects**.  
 🤝 I’m looking for help with **backend development, APIs, and database integration** for full-stack apps.  
 🌱 I’m currently learning **Node.js, Express, Three.js, GSAP**, and **advanced DSA concepts in Java**.  
