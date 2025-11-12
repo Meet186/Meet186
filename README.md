@@ -49,7 +49,7 @@
 # 📊 GitHub Stats:
 <div align="center">
   
-  ![](https://github-readme-stats.vercel.app/api?username=Meet186&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api?username=Meet186&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
   ![](https://streak-stats.demolab.com?user=Meet186&theme=tokyonight&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meet186&theme=tokyonight&hide_border=false&layout=compact)
   
