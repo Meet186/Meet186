@@ -1,6 +1,8 @@
 <h1 align="center">Hey there 👋, I'm Meet Solanki</h1>
 <h3 align="center">💻 Frontend Developer & Java Enthusiast from India</h3>
 
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" />
+
 # 💫 About Me:
 🔭 I’m currently working on building interactive web pages using React and improving my Java DSA problem-solving skills.<br>
 👯 I’m looking to collaborate on Front-end or Java-based projects.<br>
@@ -65,5 +67,9 @@
 ---
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Meet186&label=Profile%20Views&color=blue&style=flat" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
