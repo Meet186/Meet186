@@ -1,0 +1,35 @@
+name: Update README with Real-Time Data
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # Updates every 30 minutes
+  workflow_dispatch:
+
+permissions:
+  contents: write   # IMPORTANT: allows the Action to push changes
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Run update script
+        run: node update.js
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "🔄 Auto-update README" || echo "No changes to commit"
+          git push
