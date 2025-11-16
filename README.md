@@ -77,7 +77,7 @@
 </div>
 
 <!--START_SECTION:dynamic-->
-Loading real-time data...
+
 <!--END_SECTION:dynamic-->
 
 <picture>
