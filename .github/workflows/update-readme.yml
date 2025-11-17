@@ -23,16 +23,23 @@ jobs:
         with:
           node-version: 18
 
-      - name: Install dependencies
-        run: npm install axios
+      - name: Update README content
+        run: |
+          node update-readme.js
 
-      - name: Run update script
-        run: node update.js
-
-      - name: Commit and push
+      - name: Set up Git
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+
+      - name: Pull latest changes
+        run: |
+          git pull origin main --rebase || true
+
+      - name: Commit and Push changes
+        run: |
           git add README.md
           git commit -m "🔄 Auto-update README" || echo "No changes to commit"
-          git push
+          git push origin main
+
+
