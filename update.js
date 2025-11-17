@@ -3,16 +3,14 @@ const axios = require("axios");
 
 const username = "Meet186";
 
-// Fetch GitHub user data
-async function getGitHubData() {
+// Fetch GitHub Followers
+async function getGitHubFollowers() {
   const res = await axios.get(`https://api.github.com/users/${username}`);
-  return {
-    followers: res.data.followers,
-    publicRepos: res.data.public_repos,
-  };
+  return res.data.followers;
 }
 
 async function updateReadme() {
+  // Read main README
   const readme = fs.readFileSync("README.md", "utf-8");
 
   const followers = await getGitHubFollowers();
@@ -29,7 +27,8 @@ async function updateReadme() {
     `<!--START_SECTION:dynamic-->\n${dynamicContent}\n<!--END_SECTION:dynamic-->`
   );
 
-  fs.writeFileSync("README.md", updatedReadme);
+  // Write back the updated README
+  fs.writeFileSync("README.md", updated);
 }
 
 updateReadme();
