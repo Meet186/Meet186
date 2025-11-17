@@ -3,6 +3,7 @@ const axios = require("axios");
 
 const username = "Meet186";
 
+// Fetch GitHub user data
 async function getGitHubData() {
   const res = await axios.get(`https://api.github.com/users/${username}`);
   return {
@@ -12,21 +13,24 @@ async function getGitHubData() {
 }
 
 async function updateReadme() {
-  const template = fs.readFileSync("README_TEMPLATE.md", "utf-8");
+  // Read existing README.md (NO template)
+  const readme = fs.readFileSync("README.md", "utf-8");
 
-  const data = await getGitHubData();
+  const data = await getGitGitHubData();
   const time = new Date().toLocaleString("en-IN", { timeZone: "Asia/Kolkata" });
 
   const dynamicContent = `
 ⏱️ **Last Updated:** ${time}  
-👥 **GitHub Followers:** ${data.followers}  
 📦 **Public Repos:** ${data.publicRepos}  
-🚀 Auto-updated using GitHub Actions!
   `;
 
-  const finalReadme = template.replace("<!--DYNAMIC_DATA-->", dynamicContent);
+  // Replace content inside the dynamic section
+  const updatedReadme = readme.replace(
+    /<!--START_SECTION:dynamic-->[\s\S]*<!--END_SECTION:dynamic-->/,
+    `<!--START_SECTION:dynamic-->\n${dynamicContent}\n<!--END_SECTION:dynamic-->`
+  );
 
-  fs.writeFileSync("README.md", finalReadme);
+  fs.writeFileSync("README.md", updatedReadme);
 }
 
 updateReadme();
