@@ -13,19 +13,18 @@ async function getGitHubData() {
 }
 
 async function updateReadme() {
-  const readme = fs.readFileSync("README.md", "utf-8"); // READ README.md directly
+  const readme = fs.readFileSync("README.md", "utf-8");
 
-  const data = await getGitHubData();
+  const followers = await getGitHubFollowers();
   const time = new Date().toLocaleString("en-IN", { timeZone: "Asia/Kolkata" });
 
   const dynamicContent = `
 ⏱️ **Last Updated:** ${time}  
-👥 **GitHub Followers:** ${data.followers}  
-📦 **Public Repos:** ${data.publicRepos}  
+👥 **GitHub Followers:** ${followers}  
 🚀 Auto-updated using GitHub Actions!
   `;
 
-  const updatedReadme = readme.replace(
+  const updated = readme.replace(
     /<!--START_SECTION:dynamic-->[\s\S]*<!--END_SECTION:dynamic-->/,
     `<!--START_SECTION:dynamic-->\n${dynamicContent}\n<!--END_SECTION:dynamic-->`
   );
