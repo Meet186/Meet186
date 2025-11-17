@@ -2,11 +2,11 @@ name: Update README with Real-Time Data
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # Updates every 30 minutes
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write   # IMPORTANT: allows the Action to push changes
+  contents: write
 
 jobs:
   update-readme:
@@ -22,6 +22,9 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 18
+
+      - name: Install dependencies
+        run: npm install axios
 
       - name: Run update script
         run: node update.js
