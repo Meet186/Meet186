@@ -36,15 +36,19 @@
 
 # 📊 GitHub Stats (Auto-Updating, Faster Cache):
 
-<div align="center">
+  <div align="center">
 
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=Meet186&theme=tokyonight&show_icons=true&cache_seconds=1800" />
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=Meet186&theme=tokyonight&show_icons=true&cache_seconds=86400" />
 
-<img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=Meet186&theme=tokyonight&cache_seconds=1800" />
+<img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=Meet186&theme=tokyonight&cache_seconds=86400" />
 
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meet186&layout=compact&theme=tokyonight&cache_seconds=1800" />
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meet186&layout=compact&theme=tokyonight&cache_seconds=86400" />
 
 </div>
+
+
+
+
 
 ---
 
