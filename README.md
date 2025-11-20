@@ -54,7 +54,7 @@
 
 ## 🏆 GitHub Trophies:
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Meet186&theme=tokyonight&no-frame=true&margin-w=8&cache_seconds=1800" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Meet186&theme=tokyonight&no-frame=true&margin-w=8&cache_seconds=543" />
 </div>
 
 ---
