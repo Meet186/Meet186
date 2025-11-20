@@ -46,11 +46,12 @@
 
 </div>
 
+---
 
-
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Meet186&theme=vue&radius=10" alt="Meet186's Activity Graph" />
-</p>
+# 📊 GitHub Graph (Auto-Updating, Faster Cache):
+<div align="center">
+  <img height="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=Meet186&theme=vue&radius=10" alt="Meet186's Activity Graph" />
+</div>
 
 ---
 
