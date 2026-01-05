@@ -1,10 +1,15 @@
-<h1 align="center">Hey there 👋, I'm Meet Solanki</h1>
-<h3 align="center">💻 Frontend Developer & Java Enthusiast from India</h3>
+<h1 align="center">Hey 👋, I'm Meet Solanki</h1>
+<h3 align="center">Frontend Developer • Java & DSA Enthusiast • Problem Solver</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=React+Developer;Java+DSA+Learner;Clean+UI+%26+Scalable+Code;Always+Learning+New+Tech" />
+</p>
 
 <div align="center">
- <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="30%" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="32%" />
 </div>
+
+---
 
 # 💫 About Me:
 🔭 I’m currently working on building interactive web pages using React and improving my Java DSA problem-solving skills.<br>
