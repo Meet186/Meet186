@@ -46,14 +46,7 @@
 
 </div>
 
----
 
-# 📊 GitHub Graph (Auto-Updating, Faster Cache):
-<div align="center">
-  <img height="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=Meet186&theme=vue&radius=10" alt="Meet186's Activity Graph" />
-</div>
-
----
 
 ## 🏆 GitHub Trophies:
 <div align="center">
@@ -89,11 +82,7 @@
 👥 **GitHub Followers:** 2  
 🚀 Auto-updated using GitHub Actions!
   
-<!--END_SECTION:dynamic-->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+
+
 
