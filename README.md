@@ -67,19 +67,20 @@
 
 ---
 
-### 🔝 Top Contributed Repo:
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Meet186&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&cache_seconds=1800" />
-</div>
+# 🧠 LeetCode Stats
 
----
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Meet186&label=Profile%20Views&color=blue&style=flat" />
-</div>
+<p align="center">
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
-</div>
+<img src="https://leetcode-stats.vercel.app/api?username=Meet79&theme=Dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://leetcode-badge-sage.vercel.app/badge/Meet79?theme=dark"/>
+
+</p>
+
 
 <!--START_SECTION:dynamic-->
 
