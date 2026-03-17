@@ -70,15 +70,7 @@
 # 🧠 LeetCode Stats
 
 <p align="center">
-
-<img src="https://leetcode-stats.vercel.app/api?username=Meet79&theme=Dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://leetcode-badge-sage.vercel.app/badge/Meet79?theme=dark"/>
-
+  <img src="https://leetcard.jacoblin.cool/meet79?theme=dark&font=Karla&ext=heatmap" width="600"/>
 </p>
 
 
