@@ -39,7 +39,7 @@
 
 ---
 
-# 📊 GitHub Stats (Auto-Updating, Faster Cache):
+# 📊 GitHub Stats
 
   <div align="center">
 
