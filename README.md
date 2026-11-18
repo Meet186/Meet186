@@ -70,19 +70,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meet186&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </div>
 
-<h3 align="center">🏆 GitHub Trophies</h3>
+<h3 align="center">Profile Details</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Meet186&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&cache_seconds=543" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meet186&theme=tokyonight" alt="Profile details badge"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<h3 align="center">📈 Contribution Graph</h3>
 
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Meet186&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</div>
+
 
 <!--
   🐍 SNAKE ANIMATION SETUP (one-time, ~5 min):
@@ -120,7 +116,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Meet186/Meet186/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </div>
--->
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
